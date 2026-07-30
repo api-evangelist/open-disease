@@ -1,4 +1,16 @@
 aid: open-disease
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/open-disease.png
 name: Open Disease
 description: "API for Current cases and more stuff about COVID-19 and Influenza"
 url: https://disease.sh/
