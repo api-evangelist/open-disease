@@ -39,7 +39,6 @@ apis:
   - name: Open Disease
     description: "API for Current cases and more stuff about COVID-19 and Influenza"
     humanURL: https://disease.sh/
-    baseURL: https://disease.sh/
     tags:
       - Health
     properties:
